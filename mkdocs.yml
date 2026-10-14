@@ -1,0 +1,24 @@
+site_name: Local AI at Home for Mere Mortals
+site_description: Plain-language guide to running AI models on your own machines — no CS degree required.
+site_url: https://paulsullivan33-dev.github.io/local-ai-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Is Local AI?: what-is-local-ai.md
+  - How Models Fit in Memory: how-models-fit-in-memory.md
+  - Hardware: hardware.md
+  - Your First Model: your-first-model.md
+  - Talking to Models: talking-to-models.md
+  - The Ollama API: ollama-api.md
+  - Open WebUI: open-webui.md
+  - Choosing Models: choosing-models.md
+  - Tools and Function Calling: tools-and-function-calling.md
+  - More Than One Machine: more-than-one-machine.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
