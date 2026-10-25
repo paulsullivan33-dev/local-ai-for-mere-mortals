@@ -77,3 +77,19 @@ care (see [More Than One Machine](more-than-one-machine.md)).
 
 *Written to the [nine-point writing standard](criteria.md) shared by
 every guide in this series.*
+
+---
+
+## Part of the series
+
+This guide is one of the [For Mere Mortals](https://paulsullivan33-dev.github.io/mere-mortals/) guides: plain-language guides to the tools programmers and makers use.
+
+Related guides:
+
+- [Ollama for Mere Mortals](https://paulsullivan33-dev.github.io/ollama-for-mere-mortals/)
+- [llama.cpp for Mere Mortals](https://paulsullivan33-dev.github.io/llama-cpp-for-mere-mortals/)
+- [Open WebUI for Mere Mortals](https://paulsullivan33-dev.github.io/open-webui-for-mere-mortals/)
+
+## License
+
+The writing in this guide is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/local-ai-for-mere-mortals/blob/main/LICENSE). Code examples and lab scripts are licensed under the [MIT License](https://github.com/paulsullivan33-dev/local-ai-for-mere-mortals/blob/main/LICENSE-CODE).
